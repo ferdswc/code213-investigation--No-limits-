@@ -1,0 +1,8 @@
+AGENCY: [No limits]
+MOTTO : [Squad Security Motto]
+CASE : [CASE-01 to CASE-04]
+TEAM :
+ - Role 1: [Lead] (@ferdswc)
+ - Role 2: [Threat-Analyst] (@M4f0uuud)
+ - Role 3: [Evidenc-Specialist] (@K7alil938)
+ - Role 4: [Defence-Officer] (@M4f0uuud)
